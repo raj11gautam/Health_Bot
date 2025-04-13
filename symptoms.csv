@@ -1,0 +1,18 @@
+Fever	Cough	Fatigue	Headache	Sore Throat	Muscle Aches	Loss of Appetite	Nausea	Vomiting	Diarrhea	Shortness of Breath	Rashes	Dizziness	Sweating	Sleep Disturbances	Weight Loss	Disease
+1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	Flu
+0	1	1	1	0	0	1	1	0	1	0	0	0	1	1	0	Cold
+1	1	1	0	1	1	0	0	0	0	0	1	1	0	0	0	Flu
+1	0	1	1	1	0	1	0	1	1	1	0	0	1	0	0	Covid-19
+0	0	0	1	1	0	0	0	0	1	0	0	1	0	1	0	Throat Infection
+1	1	1	1	1	1	0	1	0	1	0	1	0	1	1	0	Typhoid Fever
+1	1	1	1	1	0	1	0	1	0	0	1	1	0	0	0	Diphtheria
+1	1	1	1	1	1	0	1	1	1	0	0	0	1	1	0	Adenovirus Infection
+1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	0	Q Fever
+1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	Meningitis
+0	1	1	1	0	0	1	1	0	1	1	0	0	1	0	0	COPD
+0	0	1	1	0	0	1	1	0	1	0	0	0	1	0	1	Diabetes Mellitus
+1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	SLE
+1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	Malaria
+1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	Ebola Virus Disease
+1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	Tuberculosis
+1	1	1	1	1	1	0	1	1	1	1	1	1	1	0	0	Hepatitis A
